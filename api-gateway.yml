@@ -13,7 +13,7 @@ zuul:
   routes:
     appa-webservice: /api/**
     appb-webservice: /api/**
-	
+
 # Define the Eureka server that handles service registration
 eureka:
   client:
